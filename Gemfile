@@ -16,5 +16,6 @@ group :test do
       gem 'rack-test'
 end
 
+gem 'rspec'
 gem 'learn-co'
 gem 'pry-rescue'
